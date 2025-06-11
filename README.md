@@ -21,7 +21,7 @@
 - 🧠 Учебными проектами с Aiogram, Django и React
 - 🖼 Созданием UI на Qt6
 - 🐳 Настройкой окружений с Docker
-- ![go](https://github.com/user-attachments/assets/127517e3-ffc9-457a-92f4-0d0f489faa9e) Осваива/ Go
+- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) Осваиваю Go
 
 - ---
 
