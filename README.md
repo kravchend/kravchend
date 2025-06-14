@@ -1,9 +1,9 @@
-- <h1 align="center">Привет, я Dmitriy Kravchenko 👋</h1>
+- <h1 align="center">Привет, я Dmitriy 👋👋👋</h1>
 - 👀 Интересуюсь программированием на Python и Web-design
 - 💻 Люблю писать код на Python
 - 🚀 Разрабатываю проекты с использованием Django, ⚛️ React и 🖥 Qt6
 - 🤖 Практикуюсь в написании Телеграм ботов с Aiogram 
-- 🐳 Осваиваю Docker, 🧰 Git и современные DevTools
+- 🐳 Осваиваю Docker, 🧰 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Git и современные DevTools
   
  ---
 ### 🛠️ Стек технологий:
