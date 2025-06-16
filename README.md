@@ -1,4 +1,7 @@
 - <h1 align="center">Привет, я Dmitriy 👋👋👋</h1>
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt5am1veWdyeGppbWY5eHpyd3FoZXR2NzNyeWM2NmF4NGlrb293NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="100"/>
+</div>
 - 👀 Интересуюсь программированием на Python и Web-design
 - 💻 Люблю писать код на Python
 - 🚀 Разрабатываю проекты с использованием Django, ⚛️ React и 🖥 Qt6
