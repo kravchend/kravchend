@@ -13,6 +13,7 @@
  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ### 🛠️ Стек технологий:
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/)
@@ -26,6 +27,7 @@
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/doc)
 
  ### 🚧 Сейчас работаю над:
+ 
 - 🧠 Учебными проектами с Aiogram, Django и React
 - 🖼 Созданием UI на Qt6
 - 🐳 Настройкой окружений с Docker
@@ -34,6 +36,7 @@
 - ---
 
 ### 📫 Связаться со мной:
+
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/DmitriyKravshenko)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kravchend@gmail.com)
 
@@ -46,6 +49,7 @@
 - [x] Развивать навыки программирования
 
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kravchend&theme=dark&hide_border=&locale=ru&short_numbers=)](https://git.io/streak-stats)
 
 
