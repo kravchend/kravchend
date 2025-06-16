@@ -10,6 +10,9 @@
 - 🐳 Осваиваю Docker, 🧰  Git и современные DevTools
   
  ---
+ <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ### 🛠️ Стек технологий:
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/)
