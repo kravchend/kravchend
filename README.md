@@ -1,13 +1,5 @@
-<table>
-  <tr>
-    <td>
-      <h1>Привет, я Dmitriy 👋👋👋</h1>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
-    </td>
-  </tr>
-</table>
+<h1 align="left">Привет, я Dmitriy 👋👋👋</h1>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="110"/>
 
  
 - 👀 Интересуюсь программированием на Python и Web-design
