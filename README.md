@@ -1,5 +1,6 @@
 <div id="header" align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1 align="center">Привет, я Dmitriy 👋👋👋</h1>
 </div>
 
 - <h1 align="center">Привет, я Dmitriy 👋👋👋</h1>
