@@ -8,6 +8,14 @@
 - 🚀 Разрабатываю проекты с использованием Django, ⚛️ React и 🖥 Qt6
 - 🤖 Практикуюсь в написании Телеграм ботов с Aiogram 
 - 🐳 Осваиваю Docker, 🧰  Git и современные DevTools
+
+ ---
+
+ ## Сертификаты
+
+- 🐍 [Программирование на Python — Сертификат от Bioinformatics Institute](https://stepik.org/certificate/acabc052e3338ac93161c3e18ea754a88a397f5b.pdf)
+  <br>Авторы: Павел Федотов и Тимофей Бондарев 
+**Курс:** "Программирование на Python" на Stepik окончил с отличием
   
  ---
  <div align="center">
@@ -39,6 +47,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/DmitriyKravshenko)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kravchend@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kravchend)
 
 ### 🎯 Цели на 2025:
 
