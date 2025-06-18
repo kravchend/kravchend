@@ -13,10 +13,11 @@
 
  ## Сертификаты
 
-- 🐍 [Программирование на Python — Сертификат от Bioinformatics Institute (https://stepik.org/certificate/acabc052e3338ac93161c3e18ea754a88a397f5b.pdf)
-- <br>Авторы: Павел Федотов и Тимофей Бондарев
+- 🐍 [Программирование на Python — Сертификат от Bioinformatics Institute
 
-- [![Stepik Python](https://img.shields.io/badge/Stepik%20Certificate-Python%20Programming-green)](https://stepik.org/certificate/acabc052e3338ac93161c3e18ea754a88a397f5b.pdf)
+  [![Stepik Python](https://img.shields.io/badge/Stepik%20Certificate-Python%20Programming-green)](https://stepik.org/certificate/acabc052e3338ac93161c3e18ea754a88a397f5b.pdf)
+  
+- <br>Авторы: Павел Федотов и Тимофей Бондарев
 
 **Курс:** "Программирование на Python" от Bioinformatics Institute  окончил с отличием
   
