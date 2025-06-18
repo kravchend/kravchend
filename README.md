@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="110" height="110" alt="GitHub gif"/>
 <h1 align="center">Привет, я Dmitriy 👋👋👋</h1>
-<p>                                              </p>
-<p>                                              </p>
+<br>
+<br>
 
 
 
