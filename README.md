@@ -1,8 +1,8 @@
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="110" height="110" alt="GitHub gif"/>
-<h1 align="center">Привет, я Dmitriy 👋👋👋</h1>
-<br>
-<br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
+</div>
 
+ <h1 align="center">Привет, я Dmitriy 👋👋👋</h1>
 
 
 - 👀 Интересуюсь программированием на Python и Web-design
