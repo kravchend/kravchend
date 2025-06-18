@@ -16,7 +16,7 @@
 - 🐍 [Программирование на Python — Сертификат от Bioinformatics Institute (https://stepik.org/certificate/acabc052e3338ac93161c3e18ea754a88a397f5b.pdf)
 - <br>Авторы: Павел Федотов и Тимофей Бондарев
 
-**Курс:** "Программирование на Python" на Stepik окончил с отличием
+**Курс:** "Программирование на Python" от Bioinformatics Institute  окончил с отличием
   
  ---
  <div align="center">
