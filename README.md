@@ -1,7 +1,7 @@
-<h1 align="left">Привет, я Dmitriy 👋👋👋</h1>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="110" height="110" alt="GitHub gif" title="Это я"/>
+<h1 align="left">Привет, я Dmitriy 👋👋👋</h1>
 
- 
+
 - 👀 Интересуюсь программированием на Python и Web-design
 - 💻 Люблю писать код на Python
 - 🚀 Разрабатываю проекты с использованием Django, ⚛️ React и 🖥 Qt6
