@@ -62,9 +62,15 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kravchend&theme=dark&hide_border=&locale=ru&short_numbers=12)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kravchend&theme=dark&hide_border=&locale=ru&short_numbers=)](https://git.io/streak-stats)
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kravchend&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔥 Статистика активности
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=kravchend&theme=dark&hide_border=&locale=ru&short_numbers=" width="600"/>
+</p>
 
