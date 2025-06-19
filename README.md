@@ -62,7 +62,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kravchend&theme=dark&hide_border=&locale=ru&short_numbers=)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kravchend&theme=dark&hide_border=&locale=ru&short_numbers=12)](https://git.io/streak-stats)
 
 
 
