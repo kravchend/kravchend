@@ -67,3 +67,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kravchend&layout=compact&theme=vision-friendly-dark" width="400"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kravchend&show_icons=true&theme=dark" width="400"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=kravchend&theme=dark&hide_border=true&locale=ru" width="400"/>
+</p>
