@@ -64,6 +64,7 @@
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=kravchend&theme=dark&hide_border=&locale=ru&short_numbers=" width="500"  height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kravchend&layout=compact&theme=vision-friendly-dark" width="500"  height="200"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kravchend&layout=compact&theme=vision-friendly-dark" width="500"  height="200"/>
