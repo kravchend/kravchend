@@ -12,8 +12,9 @@
 - 🐳 Осваиваю Docker, 🧰  Git и современные DevTools
 
  ---
-
- <h1 align="center">🏆  🏆  🏆 Сертификаты 🏆  🏆  🏆 </h1> 
+ <h1 align="center">🏆  🏆  🏆</h1> 
+ <h1 align="center"> Сертификаты </h1> 
+ <h1 align="center">🏆  🏆  🏆</h1> 
 
 - 🐍 📜  Программирование на Python — Сертификат от Bioinformatics Institute
 
