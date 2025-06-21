@@ -41,7 +41,14 @@
 
  ### 🚧 Сейчас работаю над:
 
- <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; width="100%;">
+ <table 
+  border="0" 
+  cellpadding="0" 
+  cellspacing="0" 
+  align="center" 
+  width="80%" 
+  height="80%" 
+  style="border-collapse: collapse; border: none;">
   <tr>
     <td valign="top" style="width: 100%; border: none;">
 
