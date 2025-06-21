@@ -50,7 +50,6 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" style="vertical-align: middle;" alt="Django"/> Django<br>
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" style="vertical-align: middle;" alt="React"/> React<br><br> 
-
 - 🖼 Созданием UI на Qt6  
 - 🐳 Настройкой окружений с Docker  
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) Изучаю Go
@@ -62,25 +61,6 @@
     </td>
   </tr>
 </table>
-
-<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td valign="top" style="width: 75%; font-size: 16px; line-height: 1.4; padding-right: 10px; border: none;">
-      🧠 Учебными проектами с:<br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="vertical-align: middle; margin-right: 6px;" alt="Aiogram"/> Aiogram<br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" style="vertical-align: middle; margin-right: 6px;" alt="Django"/> Django<br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" style="vertical-align: middle; margin-right: 6px;" alt="React"/> React<br><br>
-      🖼 Созданием UI на Qt6<br>
-      🐳 Настройкой окружений с Docker<br>
-      <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go badge" style="vertical-align: middle;"/> Изучаю Go
-    </td>
-    <td valign="top" style="width: 25%; border: none;">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" alt="Gif" />
-    </td>
-  </tr>
-</table>
-
-
 
 - ---
 
