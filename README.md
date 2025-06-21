@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/bf4c0ca27abc6b765b7bc36c1013dd85e2bf7baefe44011c4e39f0d2d13c7938/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966" width="110" />
+  <img src="https://camo.githubusercontent.com/bf4c0ca27abc6b765b7bc36c1013dd85e2bf7baefe44011c4e39f0d2d13c7938/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966" width="130" />
 </div>
 
  <h1 align="center">Привет, я Dmitriy 👋👋👋</h1>
@@ -39,17 +39,21 @@
 
  ### 🚧 Сейчас работаю над:
 
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
-</div>
+ <table>
+  <tr>
+    <td>
 
-- 🧠 Учебными проектами с Aiogram, Django и React
+- 🧠 Учебными проектами с Aiogram, Django и React  
+- 🖼 Созданием UI на Qt6  
+- 🐳 Настройкой окружений с Docker  
+- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) Изучаю Go
 
-- 🖼 Созданием UI на Qt6
-  
-- 🐳 Настройкой окружений с Docker
-  
-- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)  Изучаю Go
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" />
+    </td>
+  </tr>
+</table>
 
 - ---
 
