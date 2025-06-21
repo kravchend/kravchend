@@ -39,7 +39,7 @@
 
  ### 🚧 Сейчас работаю над:
 
- <table>
+ <table width="100%">
   <tr>
     <td valign="top" style="width: 70%;">
 
