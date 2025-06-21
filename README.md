@@ -69,23 +69,6 @@
 </table>
 
 ---
-<div align="left">
-  <p> -  🧠 Учебными проектами с:</p>
-  
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="vertical-align: middle;" alt="Aiogram"/> Aiogram<br>
-
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" style="vertical-align: middle;" alt="Django"/> Django<br>
-
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" style="vertical-align: middle;" alt="React"/> React<br>
-  <p> - 🖼 Созданием UI на Qt6</p>
-  <p> - 🐳 Настройкой окружений с Docker  </p>
-  - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) Изучаю Go
-</div>
-    <divalign="right">
-      <img src="https://camo.githubusercontent.com/bf4c0ca27abc6b765b7bc36c1013dd85e2bf7baefe44011c4e39f0d2d13c7938/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966" width="120" />
-    </div>
-
----
 
 ### 🎯 Цели на 2025:
 
