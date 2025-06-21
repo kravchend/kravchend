@@ -39,9 +39,9 @@
 
  ### 🚧 Сейчас работаю над:
 
- <table>
+ <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td valign="top" style="width: 70%; border: none; padding: 0;">
 
 - 🧠 Учебными проектами с Aiogram, Django и React  
 - 🖼 Созданием UI на Qt6  
@@ -49,8 +49,10 @@
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) Изучаю Go
 
     </td>
-    <td>
+    <td valign="top" style="width: 30%; border: none; padding: 0;">
+
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" />
+
     </td>
   </tr>
 </table>
