@@ -46,11 +46,11 @@
   cellpadding="0" 
   cellspacing="0" 
   align="center" 
-  width="80%" 
-  height="80%" 
+  width="100%" 
+  height="100%" 
   style="border-collapse: collapse; border: none;">
   <tr>
-    <td valign="top" style="width: 100%; border: none;">
+    <td valign="top" style="width: 50%; border: none;">
 
 - 🧠 Учебными проектами с:
   
@@ -66,7 +66,6 @@
     
     <td valign="top" style="width: 50%; border: none;">
       <img src="https://camo.githubusercontent.com/bf4c0ca27abc6b765b7bc36c1013dd85e2bf7baefe44011c4e39f0d2d13c7938/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966" width="120" />
-
     </td>
   </tr>
 </table>
