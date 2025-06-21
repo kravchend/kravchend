@@ -56,7 +56,7 @@
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) Изучаю Go
     </td>
     
-    <td valign="top" style="width: 10%;">
+    <td valign="top" style="width: 10%; border: none;">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
     </td>
   </tr>
