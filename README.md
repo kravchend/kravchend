@@ -42,9 +42,13 @@
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
 </div>
+
 - 🧠 Учебными проектами с Aiogram, Django и React
+
 - 🖼 Созданием UI на Qt6
+  
 - 🐳 Настройкой окружений с Docker
+  
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)  Изучаю Go
 
 - ---
