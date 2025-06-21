@@ -50,12 +50,10 @@
 
     </td>
     <td valign="top" style="width: 30%;">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" />
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
     </td>
   </tr>
 </table>
-
-
 
 - ---
 
