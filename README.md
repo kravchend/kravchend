@@ -45,8 +45,7 @@
   border="0" 
   cellpadding="0" 
   cellspacing="0" 
-  align="center" 
-  width="1500" 
+  align="left" 
   style="border-collapse: collapse; border: none;">
   <tr>
     <td valign="top" style="width: 900; border: none;">
