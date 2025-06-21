@@ -66,12 +66,6 @@
 
 ---
 
-### 📫 Связаться со мной:
-
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/DmitriyKravshenko)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kravchend@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kravchend)
-
 ### 🎯 Цели на 2025:
 
 - [x] Глубже освоить Python и JavaScript
@@ -79,6 +73,14 @@
 - [x] Продолжать работу с портфолио с готовыми проектами
 - [x] Найти интересную работу в IT
 - [x] Развивать навыки программирования
+
+---
+
+### 📫 Связаться со мной:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/DmitriyKravshenko)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kravchend@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kravchend)
 
 ---
 
