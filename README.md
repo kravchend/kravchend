@@ -57,46 +57,13 @@
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" style="vertical-align: middle;" alt="Django"/> Django<br>
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" style="vertical-align: middle;" alt="React"/> React<br><br> 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" style="vertical-align: middle;" alt="React"/> React<br>
 - 🖼 Созданием UI на Qt6  
 - 🐳 Настройкой окружений с Docker  
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) Изучаю Go
     </td>
-    
     <td valign="top" style="width: 600; border: none;">
       <img src="https://camo.githubusercontent.com/bf4c0ca27abc6b765b7bc36c1013dd85e2bf7baefe44011c4e39f0d2d13c7938/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966" width="120" />
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td valign="top" style="width: 75%; font-size: 16px; line-height: 1.5;">
-      <p>
-      <p>🧠 Учебными проектами с:</p>
-      <ul style="list-style: none; padding-left: 0;">
-        <li>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="vertical-align: middle; margin-right: 6px;" alt="Aiogram"/>
-          Aiogram
-        </li>
-        <li>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" style="vertical-align: middle; margin-right: 6px;" alt="Django"/>
-          Django
-        </li>
-        <li>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" style="vertical-align: middle; margin-right: 6px;" alt="React"/>
-          React
-        </li>
-      </ul>
-      <p>🖼 Созданием UI на Qt6</p>
-      <p>🐳 Настройкой окружений с Docker</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go badge" style="vertical-align: middle;" />
-        Изучаю Go
-      </p>
-    </td>
-    <td valign="top" style="text-align: right;">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" />
     </td>
   </tr>
 </table>
