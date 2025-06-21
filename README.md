@@ -63,31 +63,23 @@
   </tr>
 </table>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%;">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td valign="top" style="width: 75%; font-size: 16px; line-height: 1.4; padding-right: 10px; border: none;">
+      🧠 Учебными проектами с:<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="vertical-align: middle; margin-right: 6px;" alt="Aiogram"/> Aiogram<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" style="vertical-align: middle; margin-right: 6px;" alt="Django"/> Django<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" style="vertical-align: middle; margin-right: 6px;" alt="React"/> React<br><br>
+      🖼 Созданием UI на Qt6<br>
+      🐳 Настройкой окружений с Docker<br>
+      <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go badge" style="vertical-align: middle;"/> Изучаю Go
+    </td>
+    <td valign="top" style="width: 25%; border: none;">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" alt="Gif" />
+    </td>
+  </tr>
+</table>
 
-  <div style="flex: 1; max-width: 75%; font-size: 16px; line-height: 1.4;">
-    <p>🧠 Учебными проектами с:</p>
-    <ul style="list-style: none; padding-left: 0; margin-top: 0;">
-      <li>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="vertical-align: middle; margin-right: 6px;" alt="Aiogram"/> Aiogram
-      </li>
-      <li>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" style="vertical-align: middle; margin-right: 6px;" alt="Django"/> Django
-      </li>
-      <li>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" style="vertical-align: middle; margin-right: 6px;" alt="React"/> React
-      </li>
-    </ul>
-    <p>🖼 Созданием UI на Qt6</p>
-    <p>🐳 Настройкой окружений с Docker<</p>
-    <p><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go badge" style="vertical-align: middle;"/> Изучаю Go</p>
-  </div>
-
-  <div style="max-width: 25%; padding-left: 15px;">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" alt="Gif" />
-  </div>
-
-</div>
 
 
 - ---
