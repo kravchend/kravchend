@@ -43,7 +43,14 @@
   <tr>
     <td valign="top" style="width: 80%;">
 
-- 🧠 Учебными проектами с Aiogram, Django и React  
+- 🧠 Учебными проектами с:
+  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="vertical-align: middle;" alt="Aiogram"/> Aiogram<br>
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" style="vertical-align: middle;" alt="Django"/> Django<br>
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" style="vertical-align: middle;" alt="React"/> React<br><br> 
+
 - 🖼 Созданием UI на Qt6  
 - 🐳 Настройкой окружений с Docker  
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) Изучаю Go
