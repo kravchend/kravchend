@@ -39,7 +39,7 @@
 
  ### 🚧 Сейчас работаю над:
 
- <table width="100%">
+ <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;" width="100%">
   <tr>
     <td valign="top" style="width: 70%;">
 
